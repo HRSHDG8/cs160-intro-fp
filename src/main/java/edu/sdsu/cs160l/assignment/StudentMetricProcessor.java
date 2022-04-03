@@ -4,13 +4,6 @@ import edu.sdsu.cs160l.assignment.model.Student;
 
 import java.util.List;
 
-/**
- * TODO complete all TODOs below
- * TODO for your LabReports explain the following (3 points,1 for each question)
- *  1) what is functional interface
- *  2) how would your convert a class implementing functional interface to a lambda function
- *  3) for loops vs data processing pipelines
- */
 public class StudentMetricProcessor {
   private final List<Student> students;
 
