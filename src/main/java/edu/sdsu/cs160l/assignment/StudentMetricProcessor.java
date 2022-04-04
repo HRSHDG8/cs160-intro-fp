@@ -39,7 +39,7 @@ public class StudentMetricProcessor {
   }
 
   /**
-   * TODO (carries 2 point)
+   * TODO (carries 1 point)
    *
    * @return a list of redIds for all students whose gpa >= 3.0 && gpa <=3.5
    */
@@ -48,7 +48,7 @@ public class StudentMetricProcessor {
   }
 
   /**
-   * TODO (carries 2 point)
+   * TODO (carries 1 point)
    *
    * @return a count of students whose gpa >=2.85 && gpa <=3.0, hit use the count method at end of stream instead of collect
    */
